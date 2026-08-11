@@ -67,4 +67,4 @@ FileOrganizer/
 
 ## Author
 
-Rakib
+Abdullah Al Sadat
